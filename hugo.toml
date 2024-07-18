@@ -1,0 +1,17 @@
+baseURL = 'https://manchestermn.gov/'
+languageCode = 'en-us'
+title = 'City of Manchester'
+theme = 'universal'
+
+[params]
+    disabled_logo = true
+    logo_text = "City of Manchester"
+    contact_url = "/contact"
+    address = """<p class="text-uppercase"><strong>City of Manchester</strong>
+        <br>144 McKinley Street
+        <br>Manchester, MN 56007
+        <br>
+        <br><a href="mailto:cityofmanchester1@outlook.com">Email US</a>
+        <br>        
+      </p>
+      """
