@@ -16,8 +16,7 @@ style = 'red'
         <br>        
       </p>
       """
-    enableGoogleMaps = true
-    googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
+    enableGoogleMaps = false
     latitude = "43.724093"
     longitude = "-93.452566"
     copyright = "Copyright (C) 2024"
