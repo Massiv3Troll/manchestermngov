@@ -1,8 +1,8 @@
-baseURL = 'https://manchestermn.gov/'
-languageCode = 'en-us'
-title = 'City of Manchester'
-theme = 'universal'
-style = 'red'
+baseURL = "https://manchestermn.gov/"
+languageCode = "en-us"
+title = "City of Manchester"
+theme = "universal"
+style = "marsala"
 
 [params]
     disabled_logo = true
