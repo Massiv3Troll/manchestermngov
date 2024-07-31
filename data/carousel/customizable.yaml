@@ -1,7 +1,8 @@
 weight: 4
-title: "Welcome"
 description: >
   <ul class="list-style-none">
-    <li>City of Manchester Minnesota</li>
+    <li style="text-align: center">City of</li>
+    <li style="text-align: center"><h1>Manchester</h1></li>
+    <li style="text-align: center">Minnesota</li>
   </ul>
 image: "img/carousel/template-easy-code.png"
