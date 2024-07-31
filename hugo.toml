@@ -2,30 +2,35 @@ baseURL = "https://manchestermn.gov/"
 languageCode = "en-us"
 title = "City of Manchester"
 theme = "universal"
-style = "marsala"
 
 [params]
     disabled_logo = true
     logo_text = "City of Manchester"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>City of Manchester</strong>
-        <br>144 McKinley Street
-        <br>Manchester, MN 56007
-        <br>
-        <br><a href="mailto:cityofmanchester1@outlook.com">Email US</a>
-        <br>        
-      </p>
-      """
+    address =   """ <p class="text-uppercase"><strong>City of Manchester</strong>
+                    <br>144 McKinley Street
+                    <br>Manchester, MN 56007
+                    <br>
+                    <br><a href="mailto:cityofmanchester1@outlook.com">Email US</a>
+                    <br>        
+                    </p>
+                """
     enableGoogleMaps = false
     latitude = "43.724093"
     longitude = "-93.452566"
-    copyright = "Copyright (C) 2024"
+    copyright = "© Copyright 2024 City of Manchester MN"
 
 [[menu.main]]
     identifier = "ordinances"
-    name       = "City Ordinances"
+    name       = "Ordinances"
     url        = "/ordinances/"
-    weight     = 6
+    weight     = 4
+
+[[menu.main]]
+    identifier = "resolutions"
+    name       = "Resolutions"
+    url        = "/resolutions/"
+    weight     = 5
 
 [[menu.main]]
     identifier = "utilities"
