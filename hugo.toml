@@ -19,18 +19,37 @@ theme = "universal"
     latitude = "43.724093"
     longitude = "-93.452566"
     copyright = "© Copyright 2024 City of Manchester MN"
+    date_format = "January 2, 2006"
 
 [[menu.main]]
-    identifier = "ordinances"
-    name       = "Ordinances"
-    url        = "/ordinances/"
+    identifier = "news"
+    name       = "News"
+    url        = "/news/"
     weight     = 4
 
 [[menu.main]]
-    identifier = "resolutions"
+    name       = "Legislation"
+    identifier = "menu.legislation"
+    url        = "/"
+    weight     = 5
+
+[[menu.main]]
+    name       = "Ordinances"
+    url        = "/ordinances/"
+    weight     = 1
+    parent     = "menu.legislation"
+
+[[menu.main]]
     name       = "Resolutions"
     url        = "/resolutions/"
-    weight     = 5
+    weight     = 2
+    parent     = "menu.legislation"
+
+[[menu.main]]
+    name       = "Fee Schedule"
+    url        = "/feeschedule/"
+    weight     = 3
+    parent     = "menu.legislation"
 
 [[menu.main]]
     identifier = "utilities"

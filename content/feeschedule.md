@@ -1,6 +1,6 @@
 +++
-title = 'Ordinances'
-date = 2024-07-30
+title = 'Feeschedule'
+date = 2024-08-02
 draft = false
 +++
 
