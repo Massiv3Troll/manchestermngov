@@ -4,6 +4,4 @@ date = 2024-07-30
 draft = false
 +++
 
-The City of Manchester has adopted The Minnesota Basic Code of Ordinances from The League of Minnesota Cities. The 2023 version of these ordinances are available below. With these ordinances some City of Manchester ordinances remain. You can find the City of Manchester's specific ordinances [here](/cityordinances/).
-{{< embed-pdf url="/pdf/Full MBC 2023.pdf" hidePaginator="true" >}}
-## Some Pages Intentionally Left Blank ##
+The City of Manchester has adopted the Minnesota Basic Code of Ordinances from the League of Minnesota Cities. You can download the 2023 version of these ordinances [here](/pdf/Full_MBC_2023.pdf). Some specific ordinances for the City of Manchester remain in effect and can be found [here](/cityordinances/).
