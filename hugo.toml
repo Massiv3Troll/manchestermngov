@@ -1,7 +1,7 @@
 baseURL = "https://manchestermn.gov/"
 languageCode = "en-us"
 title = "City of Manchester"
-theme = "universal"
+theme = ["hugo-embed-pdf-shortcode", "universal"]
 
 [params]
     disabled_logo = true
