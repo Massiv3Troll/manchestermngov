@@ -34,21 +34,27 @@ theme = ["hugo-embed-pdf-shortcode", "universal"]
     weight     = 5
 
 [[menu.main]]
-    name       = "Ordinances"
+    name       = "MBC Ordinances"
     url        = "/ordinances/"
     weight     = 1
     parent     = "menu.legislation"
 
 [[menu.main]]
+    name       = "City Ordinances"
+    url        = "/cityordinances/"
+    weight     = 2
+    parent     = "menu.legislation"
+
+[[menu.main]]
     name       = "Resolutions"
     url        = "/resolutions/"
-    weight     = 2
+    weight     = 3
     parent     = "menu.legislation"
 
 [[menu.main]]
     name       = "Fee Schedule"
     url        = "/feeschedule/"
-    weight     = 3
+    weight     = 4
     parent     = "menu.legislation"
 
 [[menu.main]]
