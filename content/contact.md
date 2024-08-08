@@ -23,11 +23,10 @@ The City Council of Manchester meets on the second Monday of every month at 7:00
 - **Kim Lebeck**
 
 ## Council Members
-- **Member 1**
-- **Member 2**
-- **Member 3**
-- **Member 4**
-
+- **Amanda Vaith**
+- **Dale Shawback**
+- **Marc Nelson**
+- **Pat Nolan**
 {{< endcolumns >}}
 
 # Fire Department
@@ -35,4 +34,4 @@ The City Council of Manchester meets on the second Monday of every month at 7:00
 The Fire Department of Manchester is staffed by volunteers that live or work in the Manchester area.
 
 ## Fire Chief
-- **Nate**
+- **Nathan Johnson**
