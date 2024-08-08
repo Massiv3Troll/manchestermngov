@@ -18,7 +18,7 @@ theme = ["hugo-embed-pdf-shortcode", "universal"]
     enableGoogleMaps = false
     latitude = "43.724093"
     longitude = "-93.452566"
-    copyright = "© Copyright 2024 City of Manchester MN"
+    copyright = "© 2024 City of Manchester"
     date_format = "January 2, 2006"
 
 [[menu.main]]
