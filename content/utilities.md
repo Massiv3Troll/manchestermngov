@@ -13,7 +13,6 @@ draft = false
 ### Waste:
 - Thompson Sanitation [thompsonsanitation.com](https://thompsonsanitation.com/) [507.256.4370](tel:5072564370)
 - Waste Management [www.wm.com](https://www.wm.com) [888.960.0008](tel:18889600008)
-### Recycling: 
+### Recycling:
 - Freeborn County has a Single Stream Recycling program. Find more information on the Freeborn County Household Hazardous Waste [webpage](https://www.co.freeborn.mn.us/177/Recycling-Household-Hazardous-Waste-HHW).
-
 ***Disclaimer The City of Manchester does not endorse any of the mentioned private companies.***
