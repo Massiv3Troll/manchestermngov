@@ -2,6 +2,8 @@
 title = 'Utilities'
 date = 2024-07-30
 draft = false
+description = "Utilies and providers in the City of Manchester"
+keywords = ["manchester", "minnesota", "mn", "city", "56007", "utilites", "providers", "water", "sewer", "electric", "electricity", "internet", "wifi", "tv", "television", "cable", "telephone", "phone", "landline", "garbage", "trash", "waste", "recycling", "recycle"]
 +++
 ## Utilites Service for the City of Manchester ##
 ### Water - Sewer:

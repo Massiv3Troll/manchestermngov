@@ -20,6 +20,17 @@ theme = ["hugo-embed-pdf-shortcode", "universal"]
     longitude = "-93.452566"
     copyright = "© 2024 City of Manchester"
     date_format = "January 2, 2006"
+    defaultKeywords = ["manchester", "minnesota", "mn", "city", "56007"]
+    defaultDescription = "Website for the City of Manchester Minnesota"
+
+[params.widgets]
+    search = false
+    categories = true
+    tags = true
+
+[params.recent_posts]
+    enable = true
+    title = "Recent News"
 
 [[menu.main]]
     identifier = "news"
