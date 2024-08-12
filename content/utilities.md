@@ -4,7 +4,7 @@ date = 2024-07-30
 draft = false
 +++
 ## Utilites Service for the City of Manchester ##
-### Water/Sewer:
+### Water - Sewer:
 - **Contact the City:** [507.402.3897](tel:5074023897)
 ### Electric:
 - **Xcel Energy**

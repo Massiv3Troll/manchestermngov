@@ -40,15 +40,9 @@ theme = ["hugo-embed-pdf-shortcode", "universal"]
     parent     = "menu.legislation"
 
 [[menu.main]]
-    name       = "Resolutions"
-    url        = "/resolutions/"
-    weight     = 2
-    parent     = "menu.legislation"
-
-[[menu.main]]
     name       = "Fee Schedule"
     url        = "/feeschedule/"
-    weight     = 3
+    weight     = 2
     parent     = "menu.legislation"
 
 [[menu.main]]
