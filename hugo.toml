@@ -67,3 +67,7 @@ theme = ["hugo-embed-pdf-shortcode", "universal"]
     name       = "Contact"
     url        = "/contact/"
     weight     = 7
+
+[sitemap]
+  filename = 'sitemap.xml'
+  priority = 0
