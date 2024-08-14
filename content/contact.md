@@ -6,7 +6,7 @@ id = "contact"
 
 # City Officials
 
-The City Council of Manchester meets on the second Monday of every month at 7:00 pm. The public is encouraged to attend. Please have any agenda items sent to the city clerk one week before meetings are held.
+The City Council of Manchester meets on the second Monday of every month at 7:00 pm at City Hall. The public is encouraged to attend. Please have any agenda items sent to the city clerk one week before meetings are held.
 
 {{< columns >}}
 
@@ -27,6 +27,7 @@ The City Council of Manchester meets on the second Monday of every month at 7:00
 - **Dale Shawback**
 - **Marc Nelson**
 - **Pat Nolan**
+
 {{< endcolumns >}}
 
 # Fire Department
