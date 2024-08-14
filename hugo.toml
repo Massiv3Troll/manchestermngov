@@ -18,8 +18,8 @@ googleAnalytics = "G-XP04JJLY0V"
                 """
     enableGoogleMaps = true
     googleMapsApiKey = "AIzaSyCyZUQdx22TCOIbmk3vUzCkhIDVFrNNpJ4"
-    latitude = "43.724093"
-    longitude = "-93.452566"
+    latitude = "43.7241891"
+    longitude = "-93.4526438"
     copyright = "© 2024 City of Manchester"
     date_format = "January 2, 2006"
     defaultKeywords = ["manchester", "minnesota", "mn", "city", "56007"]
