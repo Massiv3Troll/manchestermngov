@@ -9,4 +9,4 @@ categories = ["news"]
 +++
 ## Our Website is Live! ##
 
-The City of Manchester has launched a website! Here you keep up to date with city news, view ordinances and fee schedule at anytime, and find contact information for city officials.
+The City of Manchester has launched a website! Here you can keep up to date with city news, view ordinances and the fee schedule at anytime, and find contact information for city officials.
