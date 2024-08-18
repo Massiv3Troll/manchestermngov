@@ -7,6 +7,6 @@ banner = "img/banners/website-launch.webp"
 tags = ["website", "launch"]
 categories = ["news"]
 +++
-## Our Website is Live! ##
+## Our New Website Is Now Live! ##
 
-The City of Manchester has launched a website! Here you can keep up to date with city news, view ordinances and the fee schedule at anytime, and find contact information for city officials.
+The City of Manchester proudly announces the launch of our official website! Stay informed with the latest city news, access ordinances, review the fee schedule, and easily find contact information for city officials. Explore our user-friendly platform today!
