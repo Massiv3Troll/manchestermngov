@@ -16,8 +16,8 @@ googleAnalytics = "G-XP04JJLY0V"
                     <br>        
                     </p>
                 """
-    enableGoogleMaps = true
-    googleMapsApiKey = "AIzaSyCyZUQdx22TCOIbmk3vUzCkhIDVFrNNpJ4"
+    enableGoogleMaps = false
+    googleMapsApiKey = ""
     latitude = "43.7241891"
     longitude = "-93.4526438"
     copyright = "© 2024 City of Manchester"
