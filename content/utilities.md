@@ -7,7 +7,8 @@ keywords = ["manchester", "minnesota", "mn", "city", "56007", "utilites", "provi
 +++
 ## Utilites Service for the City of Manchester ##
 ### Water - Sewer:
-- **Contact the City:** [507.402.3897](tel:5074023897)
+- **Contact the City:**
+    - Steve Hannegrefs: [507.402.3897](tel:5074023897)
 ### Electric:
 - **Xcel Energy**
     - Website: [mn.my.xcelenergy.com](https://mn.my.xcelenergy.com/)
