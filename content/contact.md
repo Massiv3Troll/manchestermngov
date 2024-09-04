@@ -4,9 +4,11 @@ date = 2024-07-30
 id = "contact"
 +++
 
-# City Officials
+# Manchester City Council  Meetings
 
-The City Council of Manchester meets on the second Monday of every month at 7:00 pm at City Hall. The public is encouraged to attend. Please have any agenda items sent to the city clerk one week before meetings are held.
+The Manchester City Council meets on the second Monday of every month at 7:00 pm at Manchester City Hall. We warmly invite you to join us and participate in these meetings. If you have any items you’d like to see on the agenda, please send them to the city clerk at least one week before the meeting.
+
+# City Officials
 
 {{< columns >}}
 
