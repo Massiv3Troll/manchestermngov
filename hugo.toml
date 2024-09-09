@@ -41,22 +41,10 @@ googleAnalytics = "G-XP04JJLY0V"
     weight     = 4
 
 [[menu.main]]
-    name       = "Legislation"
-    identifier = "menu.legislation"
-    url        = "/"
-    weight     = 5
-
-[[menu.main]]
-    name       = "Ordinances"
+    name       = "ordinances"
+    identifier = "Ordinances"
     url        = "/ordinances/"
-    weight     = 1
-    parent     = "menu.legislation"
-
-[[menu.main]]
-    name       = "Fee Schedule"
-    url        = "/feeschedule/"
-    weight     = 2
-    parent     = "menu.legislation"
+    weight     = 5
 
 [[menu.main]]
     identifier = "utilities"
