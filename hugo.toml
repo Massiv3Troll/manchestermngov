@@ -6,7 +6,7 @@ googleAnalytics = "G-XP04JJLY0V"
 
 [params]
     disabled_logo = true
-    logo_text = "City of Manchester"
+    logo_text = "City of Manchester MN"
     contact_url = "/contact"
     address =   """ <p class="text-uppercase"><strong>City of Manchester</strong>
                     <br>144 McKinley Street
@@ -20,7 +20,7 @@ googleAnalytics = "G-XP04JJLY0V"
     googleMapsApiKey = ""
     latitude = "43.7241891"
     longitude = "-93.4526438"
-    copyright = "© 2024 City of Manchester"
+    copyright = "Copyright 2024 City of Manchester"
     date_format = "January 2, 2006"
     defaultKeywords = ["manchester", "minnesota", "mn", "city", "56007"]
     defaultDescription = "Website for the City of Manchester Minnesota"
