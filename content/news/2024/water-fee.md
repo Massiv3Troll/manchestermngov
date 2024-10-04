@@ -9,4 +9,4 @@ categories = ["news"]
 +++
 ## Water Fee ##
 
-The City of Manchester is in the process of installing a new water distribution system. To  help  pay  for  the  new  water  system  the  City  has  determined  that  each  property  that receives  City  water/or  has  a  water  service  line  shall  be  charged  a  monthly  water availability charge of $25.00.  This fee will start January 2025. You can find the entire letter that was sent to residents [here](/pdf/Water_Fee.pdf).
+The City of Manchester is currently installing a new water distribution system designed to improve water clarity and reduce contaminants in potable water. To help fund this project, the City has decided to implement a monthly water availability charge of $25.00 for each property that receives City water or has a water service line. This fee will take effect in January 2025. You can view the full letter sent to residents [here](/pdf/Water_Fee.pdf).
