@@ -1,13 +1,13 @@
 +++
-title = 'October 2024 Special Meeting'
-url = '/october-2024-special-meeting/'
+title = 'October 2024 Special Council Meeting'
+url = '/october-2024-special-council-meeting/'
 date = 2024-10-16
 draft = false
 banner = "img/banners/notice.jpeg"
 tags = ["special", "meeting"]
 categories = ["notice"]
 +++
-## October Special Meeting ##
+## October 2024 Special Council Meeting ##
 There will be a Special Council Meeting held at the Fire Hall on Monday, October 21 2024 at 7:00 pm. 
 
 The agenda includes:
