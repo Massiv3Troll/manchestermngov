@@ -1,6 +1,6 @@
 baseURL = "https://manchestermn.gov/"
 languageCode = "en-us"
-title = "City of Manchester"
+title = "City of Manchester MN"
 theme = ["hugo-embed-pdf-shortcode", "universal"]
 googleAnalytics = "G-XP04JJLY0V"
 
@@ -13,17 +13,17 @@ googleAnalytics = "G-XP04JJLY0V"
                     <br>Manchester, MN 56007
                     <br>
                     <br><a href="mailto:cityofmanchester1@outlook.com">Email US</a>
-                    <br>        
+                    <br>
                     </p>
                 """
     enableGoogleMaps = false
     googleMapsApiKey = ""
     latitude = "43.7241891"
     longitude = "-93.4526438"
-    copyright = "Copyright 2024 City of Manchester"
+    copyright = "Copyright 2024 City of Manchester MN"
     date_format = "January 2, 2006"
     defaultKeywords = ["manchester", "minnesota", "mn", "city", "56007"]
-    defaultDescription = "Website for the City of Manchester Minnesota"
+    defaultDescription = "City of Manchester MN"
 
 [params.widgets]
     search = false
