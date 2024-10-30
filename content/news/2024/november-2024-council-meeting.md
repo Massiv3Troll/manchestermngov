@@ -1,6 +1,6 @@
 +++
-title = 'November 2024 Meeting'
-url = '/november-2024-meeting/'
+title = 'November 2024 Council Meeting'
+url = '/november-2024-council-meeting/'
 date = 2024-10-28
 draft = false
 banner = "img/banners/notice.jpeg"
