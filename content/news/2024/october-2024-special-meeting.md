@@ -17,3 +17,5 @@ The agenda includes:
 - November meeting
 
 The notice posted at the Fire Hall can be viewed [here](/pdf/Special_Council_Meeting_Oct_2024.pdf).
+
+{{< embed-pdf url="/pdf/Special_Council_Meeting_Oct_2024.pdf" hidePaginator="true" >}}
