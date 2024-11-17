@@ -35,6 +35,9 @@ enableInlineShortcodes = true
     enable = true
     title = "Recent News"
 
+[params.footer.recent_posts]
+    enable = false
+
 [[menu.main]]
     identifier = "news"
     name       = "News"
