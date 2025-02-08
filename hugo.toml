@@ -6,6 +6,7 @@ googleAnalytics = "G-XP04JJLY0V"
 enableInlineShortcodes = true
 
 [params]
+    enableRobotsTXT = true
     disabled_logo = true
     logo_text = "City of Manchester MN"
     contact_url = "/contact"
@@ -21,7 +22,7 @@ enableInlineShortcodes = true
     googleMapsApiKey = ""
     latitude = "43.7241891"
     longitude = "-93.4526438"
-    copyright = "Copyright 2024 City of Manchester MN"
+    copyright = "Copyright 2025 City of Manchester MN"
     date_format = "January 2, 2006"
     defaultKeywords = ["manchester", "minnesota", "mn", "city", "56007"]
     defaultDescription = "City of Manchester MN"
