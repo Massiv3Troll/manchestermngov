@@ -46,9 +46,9 @@ enableInlineShortcodes = true
     weight     = 4
 
 [[menu.main]]
-    name       = "ordinances"
-    identifier = "Ordinances"
-    url        = "/ordinances/"
+    name       = "legislation"
+    identifier = "Legislation"
+    url        = "/legislation/"
     weight     = 5
 
 [[menu.main]]
