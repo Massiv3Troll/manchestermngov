@@ -26,7 +26,7 @@ id = "contact"
 
 - **Amanda Vaith**
 - **Dale Shawback**
-- **Marc Nelson**
+- **Vacant**
 - **Pat Nolan**
 
 {{< endcolumns >}}
