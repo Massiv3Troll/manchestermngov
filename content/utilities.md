@@ -18,7 +18,15 @@ keywords = ["manchester", "minnesota", "mn", "city", "56007", "utilites", "provi
   - Website: [mn.my.xcelenergy.com](https://mn.my.xcelenergy.com/)
   - Phone: [800.895.7999](tel:18008957999)
 
-### Internet - Telephone - Television
+### Internet
+
+- **Check Providers for your Address**
+  - FCC Website: [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/home)
+- **Manchester Hartland Telephone Company**
+  - Website: [mhtele.com](https://mhtele.com)
+  - Phone: [507.826.3212](tel:5078263212)
+
+### Telephone - Television
 
 - **Manchester Hartland Telephone Company**
   - Website: [mhtele.com](https://mhtele.com)
