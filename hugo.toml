@@ -23,7 +23,7 @@ enableInlineShortcodes = true
     latitude = "43.7241891"
     longitude = "-93.4526438"
     copyright = "Copyright 2025 City of Manchester MN"
-    date_format = "January 2, 2006"
+    date_format = "2006-01-02"
     defaultKeywords = ["manchester", "minnesota", "mn", "city", "56007"]
     defaultDescription = "City of Manchester MN"
 
