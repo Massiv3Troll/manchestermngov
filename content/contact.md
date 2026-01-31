@@ -26,7 +26,7 @@ id = "contact"
 
 - **Amanda Vaith**
 - **Dale Shawback**
-- **Von Ravlin**
+- **Vaughn Ravlin**
 - **Pat Nolan**
 
 {{< endcolumns >}}
