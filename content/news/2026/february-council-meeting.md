@@ -13,4 +13,4 @@ The City of Manchesters February council meeting will be held Tuesday, February 
 
 The notice posted at the Fire Hall can be viewed [here](/pdf/Council_Meeting_Feb_2026.pdf).
 
-{{< embed-pdf url="/pdf/Council_Meeting_Nov_2024.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/pdf/Council_Meeting_Feb_2026.pdf" hidePaginator="true" >}}
